@@ -10,7 +10,7 @@ namespace FileWatcherService
     {
         public void SendMessage()
         {
-            Console.WriteLine("Send Message...");
+            Console.WriteLine("Send Message to the...");
         }
     }
 }
